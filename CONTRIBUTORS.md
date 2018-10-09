@@ -155,6 +155,11 @@ to explore life. Also, Python and Django Developer
 - Bio: A bug is never just a mistake...
 - GitHub: [Aldo Cano](https://github.com/aldocano)
 
+#### Name: [Anjali Garg](https://github.com/AnjaliGarg13)
+- Place: India
+- Bio: Student
+- Github: [Anjali Garg](https://github.com/AnjaliGarg13)
+
 #### Name: [Aleksandr Vorontsov](https://github.com/a-vorontsov)
 - Place: London, England
 - Bio: Student, Aspiring Front-end Web Dev
